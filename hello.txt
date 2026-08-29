@@ -1,1 +1,3 @@
 Hello , I am learning Git.
+Git is becoming easier.
+I will learn github too.
