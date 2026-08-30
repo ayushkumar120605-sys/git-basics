@@ -1,3 +1,5 @@
 My name is ayush.
 I am learning Git.
 My next goal is github.
+Git is awesome.
+Next, I will learn Github.
