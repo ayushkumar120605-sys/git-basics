@@ -1,4 +1,4 @@
-Hello , I am learning Git.
+Hello from conflict branch!
 Git is becoming easier.
 I will learn github too.
 I am getting better at git.
