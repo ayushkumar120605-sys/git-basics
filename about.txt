@@ -5,4 +5,8 @@ Git is awesome.
 Next, I will learn Github.
 I am learning git and github for knowledge.
 My teammate added this line.
+<<<<<<< HEAD
 I am working on the SIH project.
+=======
+My teammate is working on the SIH project.
+>>>>>>> d89fea9d8db2f2f7dcb103b553d9144a3612ff11
